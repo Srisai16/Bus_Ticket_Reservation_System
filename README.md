@@ -83,15 +83,15 @@ java Main
 
 ### 1. Main Booking Interface
 
-![Main Booking Interface](bus-ticket-reservation\src\main\java\com\busreservation\lib\screenshots\booking-interface.png)
+![Main Booking Interface](screenshots\booking-interface.png)
 
 ### 2. Fare Calculation / Booking Confirmation
 
-![Fare Calculation](bus-ticket-reservation\src\main\java\com\busreservation\lib\screenshots\fare-calculation.png)
+![Fare Calculation](screenshots\fare-calculation.png)
 
 ### 3. MySQL Database View of Stored Bookings
 
-![Database View](bus-ticket-reservation\src\main\java\com\busreservation\lib\screenshots\database-view.png)
+![Database View](screenshots\database-view.png)
 
 ---
 
@@ -121,7 +121,3 @@ java Main
 ## 📎 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-```
-
----
