@@ -83,15 +83,15 @@ java Main
 
 ### 1. Main Booking Interface
 
-![Main Booking Interface](screenshots\booking-interface.png)
+![Main Booking Interface](screenshots/booking-interface.png)
 
 ### 2. Fare Calculation / Booking Confirmation
 
-![Fare Calculation](screenshots\fare-calculation.png)
+![Fare Calculation](screenshots/fare-calculation.png)
 
 ### 3. MySQL Database View of Stored Bookings
 
-![Database View](screenshots\database-view.png)
+![Database View](screenshots/database-view.png)
 
 ---
 
